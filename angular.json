@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "EzioProject"
+    }
+  },
+  "defaultProject": "EzioProject",
+  "cli": {
+    "analytics": "918deb84-cd0e-4191-a30a-de9baee5bb65"
+  }
 }
